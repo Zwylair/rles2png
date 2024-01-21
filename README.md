@@ -9,6 +9,11 @@ rles2png is console program that converts dxt4 rles/rle2 image into more popular
 #### Features:
 * Save png into file OR print png in base64 to get past saving
 
+# Using
+```
+rles2png.exe <input_file> <output_file | print>
+```
+
 # License
 
 This project is under the [MIT license](./LICENSE).
