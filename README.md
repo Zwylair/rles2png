@@ -1,4 +1,6 @@
-# rles2png
+<h1 align="center">
+    rles2png
+</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge">
