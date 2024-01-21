@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rles2png": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Zwylair\\Desktop\\file.rles C:\\Users\\Zwylair\\Desktop\\file.png"
+    }
+  }
+}

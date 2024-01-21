@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Pfim">
+      <HintPath>lib\Pfim.dll</HintPath>
+    </Reference>
+    <Reference Include="s4pi.ImageResource">
+      <HintPath>lib\s4pi.ImageResource.dll</HintPath>
+    </Reference>
+    <Reference Include="s4pi.Interfaces">
+      <HintPath>lib\s4pi.Interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
